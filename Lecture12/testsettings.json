@@ -1,0 +1,12 @@
+﻿{
+  "Common": {
+    "Browser": "Chrome",
+    "DemoQAUrls": {
+      "TextBoxPage": "https://demoqa.com/text-box"
+    }
+  },
+  "TestData": {
+    "UserName": "Johny Depp",
+    "UserEmail": "jd@mail.ru"
+  }
+}
